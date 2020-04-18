@@ -21,6 +21,8 @@ img {
 	display: block;
 	margin-left: auto;
 	margin-right: auto;
+	margin-bottom: 1em;
+	margin-top: 1em;
 }
 
 #intro {
@@ -44,4 +46,9 @@ table-caption {
 
 td {
 	width: 10em
+}
+
+a {
+	margin-left: 1em;
+	display: block;
 }
