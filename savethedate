@@ -2,4 +2,5 @@
 <body>
 <img id = "mainImage"; src="SavetheDate.jpg"> </img>
 </body>
+<link rel="stylesheet" href="poststyle.css">
 </html>
