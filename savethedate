@@ -1,5 +1,5 @@
 <html>
 <body>
-<img src="SavetheDate.jpg"> </img>
+<img id = "mainImage"; src="SavetheDate.jpg"> </img>
 </body>
 </html>
